@@ -1,6 +1,5 @@
 # Changes
 
-## Version 0.0.1 (2021-11-05)
+## Version 0.0.1 (2025-02-25)
 
 - Added version 0.1 of the component
-- License: [`MIT`](https://github.com/brazil-data-cube/terracollect-app/blob/master/LICENSE).
