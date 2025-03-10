@@ -36,6 +36,9 @@ export class NgWcpmsExampleComponent {
 }
 ```
 
+The `<lib-ng-wcpms>` component on DC Explorer
+![alt text](https://github.com/GSansigolo/ng-wcpms/blob/master/exemple/DC_Explorer.png)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
